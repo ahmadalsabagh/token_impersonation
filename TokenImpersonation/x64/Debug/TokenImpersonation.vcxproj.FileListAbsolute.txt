@@ -1,2 +1,0 @@
-C:\Users\ahmad\source\repos\TokenImpersonation\x64\Debug\TokenImpersonation.exe
-C:\Users\ahmad\source\repos\TokenImpersonation\x64\Debug\TokenImpersonation.pdb
